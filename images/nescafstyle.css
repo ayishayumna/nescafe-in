@@ -1,0 +1,676 @@
+
+*
+{
+    margin: 0;
+   
+}
+body{
+    overflow-x: hidden;
+}
+
+.header
+{
+     width: 100%;
+     height: 160px;
+     display: flex;
+     justify-content: center;
+     
+     
+}
+.header-contant
+{
+    
+    
+    width: 90%;
+    height: 70px;
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+}
+.logo
+{
+    padding-top: 27px;
+    margin-top: -24px;
+    width: 229px;
+    height: 94px;
+    margin-left: -66px;
+    padding-left: 85px;
+    
+    
+}
+.logo-pic
+{
+    height: 75px;
+    width: 220px;
+} 
+.icon
+{
+    
+  width: 20px;
+  height: 40px;
+}
+.fa-sharp
+{
+font-size: 40px;
+margin-left: -620px;
+padding-top: 0px;
+margin-top: 26px;
+}
+.hamburger
+{
+     cursor: pointer;
+    padding-top: 65px;
+}
+
+ .fa-solid
+{
+    font-size: 43px;
+    margin-top: 19px;    
+} 
+.nav
+{
+    background-color: rgb(245, 242, 239);
+    width: 100%;
+    height: 62px;
+    padding-top: 30px;
+}
+.li
+{
+display: inline;
+font-family: GothamRoundedMedium,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    line-height: 1.25rem;
+    font-weight: 500;
+  -webkit-font-smoothing: antialiased;
+}
+a{
+ color: black; 
+ 
+}
+.our-coffees
+{
+    padding: 10px;
+}
+.sustainability
+{
+    padding: 20px;
+}
+.recipes
+{
+    cursor: pointer;
+    padding: 130px;
+    
+}
+.first
+{
+    width: 100%;
+    height: 1000px;
+     background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+.card-overlay {
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+  }
+.caption
+{
+    font-family:GothamRoundedBook,"Helvetica Neue",Helvetica,Arial,sans-serif ;
+    font-size: 30px;
+    line-height: 1.375rem;
+    color: #fff;
+    text-align: center;
+    padding-top: 67px;
+    margin-left: 100px;
+    position: relative;
+    top: 265px;
+    font-variant: small-caps slashed 
+}
+.morning
+{
+    margin-top: 100px;
+}
+
+.h1
+{
+    width: 100%;
+}
+sup
+{
+margin-left: -29px;
+}
+.heading
+{
+    color: #fff;
+    font-size: 114px;
+   font-family: NescafeSansRegular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 272px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+p{
+    color: #fff;
+    font-family: GothamRoundedBook,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 50px;
+    line-height: 52px;
+    padding-top: 9px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.button
+{
+    width: 35%;
+    height: 110px;
+    margin-top: 111px;
+    margin-left:524px ;
+    color: #fff;
+    border-color: #fff;
+    background-color: transparent;
+    background-image: url(button-sprite-white.webp);
+    border-radius: 0px 0px 50px 0px;
+    border-width: 4.5px;
+    
+}
+.button-link
+{
+    font-size: 35px;
+    color: #fff;
+}
+.button-text
+{
+    font-family: "Varela Round"; 
+}
+.recipes-area
+{
+    width: 94%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    border-radius:30px 0px 120px 0px ;
+
+}
+#transparent
+{
+    border-radius:30px 0px 120px 0px ;
+
+}
+.coffee-bean
+{
+    margin: 50px;
+    width: 94%;
+    height: 400px;
+    border: 5px solid black;
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+}
+.recipes-title
+{
+    color: #fff;
+    
+    line-height: 40px;
+    font-family: NescafeSansRegular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 98px;
+    padding-top: 258px;
+    margin-left: 621px;
+
+}
+.reci
+{
+color: #fff;
+}
+.reci-para
+{
+    color: #fff;
+    font-size: 41px;
+}
+#latte
+{
+    margin-left: 10px;
+}
+
+
+
+
+.r
+{
+margin-left: 5px;
+}
+h2
+{
+    margin-left: 50px;
+    font-size: 30px;
+    line-height: 40px;
+    font-family: NescafeSansRegular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 88px;
+}
+.classic-para
+{
+color: black;
+font-family: GothamRoundedBook,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 45px;
+    line-height: 60px;
+    word-spacing: 10px;
+    margin: 43px;
+    text-align: left;
+}
+.r1
+{
+    margin-left: 5px;
+}
+#icon{
+    margin-left: 144px;
+    margin-top: 10px;
+    position: relative;
+    top: 10px;
+    font-size: 50px;
+}
+#icon:hover {
+    color: rgb(141, 4, 4);
+   
+  }
+.span
+{
+    padding: 0.625rem 0 0.625rem 1.375rem;
+    vertical-align: sub;
+    font-family: GothamRoundedMedium,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-variant: common-ligatures;
+    font-size: 40px;
+    font-weight: 600;
+    font-kerning: 21px;
+    
+}
+#letter-r
+{
+    padding-left:29px ;
+}
+.flavors
+{
+    width: 90%;
+    height: 700px;
+    background: linear-gradient(245deg,#ad1008 0,#e1261c 100%); 
+    border-bottom-left-radius: 25.5rem;
+    margin-top: 50px;
+    margin-left: 175px;
+}
+.classic-img
+{
+    padding-left: 376px;
+    width: 748px;
+    padding-top: 70px;
+}
+.similar-flavour
+{
+margin-left: 50px;
+margin-top: 120px;
+width: 100%;
+height: 800px;
+
+
+
+}
+.caption-flavour
+{
+    margin-left: 664px;
+    font-family: GothamRoundedBook,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.875rem;
+    line-height: 1.375rem;
+    font-weight: 50;
+    font-stretch: extra-expanded
+}
+.gold
+{
+    margin-top: 20px;
+    float: left;
+    width: 50%;
+    height: 500px;
+    background-image: url(leaf-grey.svg);
+    background-repeat: no-repeat;
+    background-size: 317px;
+    background-position: 191px;
+}
+.gold-img
+{
+    width: 325px;
+    transition: transform .2s; 
+}
+.gold:hover img
+{
+    transform: scale(1.5);
+}
+.icon-leafgold
+{
+   width:10px ;
+   padding-left:205px;
+   padding-top: 132px;
+}   
+
+
+.sunrise
+{
+    margin-top: 20px;
+    float: right;
+    width:50% ;
+    height: 500px;
+    background-image: url(leaf-grey.svg);
+    background-repeat: no-repeat;
+    background-size: 317px;
+    background-position: 191px;
+    
+    
+}
+.sunrise-img
+{
+    transition: transform .2s;   
+}
+.sunrise :hover img
+{
+    transform: scale(1.5);
+}
+ .icon-leafsun
+ {
+    width:10px ;
+    padding-left:180px;
+    padding-top: 114px;
+ } 
+ .csm-recipes
+ {
+    width: 100%;
+    height:1100px ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: -180px;
+ } 
+ 
+ 
+ .coffees-smoothy-moctails
+ {
+    color: #fff;
+    font-size: 30px;
+    padding-left: 571px;
+    position: relative;
+    top: 313px;
+    font-family: GothamRoundedBook,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+ 
+ .sec-recipes
+ {
+    color: #fff;
+    font-family: NescafeSansRegular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 111px;
+    line-height: 54px;
+    position: relative;
+    top: 359px;
+    margin-left: 622px;
+    
+ }
+ .para-2
+ {
+    text-align: center;
+    font-family: GothamRoundedBook,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: inherit;
+    text-rendering: optimizeLegibility;
+    display: block;
+    font-size: 48px;
+    padding-top: 416px;
+ }
+ #super
+ {
+    padding-left:30px ;
+ }
+ .btn
+ {
+    margin-top: 140px;
+    margin-left: 680px;
+    border-color: #fff;
+    width: 313px;
+    height: 100px; 
+    border-radius: 0px 0px 40px 0px;
+    background-color: transparent;
+    border-width: 4px;
+ }
+ .btn-text
+ {
+    color: #fff;
+    font-size: 30px;
+    font-family: "Varela Round"; 
+ }
+ .experience
+ {
+    width: 100%;
+    height: 1100px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+ }
+.perfect
+{
+    color: #fff;
+    font-size: 110px;
+    text-align: center;
+    padding-top: 300px;
+    font-family: GothamRoundedBook,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 200;
+}
+.para
+{
+    color: #fff;
+    text-align: center;
+    font-size: 47px;
+    padding-top: 35px;
+    font-family: GothamRoundedBook,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+#para-super
+{
+    padding-left: 34px;
+}
+.btn-ex
+{
+    margin-left: 658px;
+    margin-top: 100px;
+    border-radius: 0px 0px 40px 0px;
+    width: 320px;
+    height: 122px;
+    background-color: transparent;
+    border-color: #fff;
+    border-width: 4px;
+}
+.campaigns
+{
+    width: 100%;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.latest-camp
+{
+    color: #fff;
+    font-family: GothamRoundedBook,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 114px;
+    text-align: center;
+    font-weight: 200;
+    padding-top: 300px;
+}
+.para-4
+{
+    color: #fff;
+    font-size: 54px;
+    
+}
+#latest-super
+{
+padding-left: 34px;
+margin-top: -4px;
+}
+.btn-camp
+{
+    margin-top: 120px;
+    margin-left: 660px;
+    border-color: #fff;
+    border-radius: 0px 0px 50px 0px;
+    border-width: 4px;
+    width: 332px;
+    height: 120px;
+    background-color: transparent; 
+}
+.tastes
+{
+    width: 100%;
+    height: 1100px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.tastes-sus
+{
+    color: #fff;
+
+    font-family: GothamRoundedBook,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 36px;
+    text-align: center;
+    font-weight: 200;
+    padding-top: 300px;
+}
+.para-5
+{
+    padding-top: 80px;
+    font-size: 49px;
+}
+ .tastes-grown
+ {
+    padding-left: 129px;
+    padding-top: 30px;
+    color: #fff;
+    font-size: 121px;
+    font-weight: 200;
+    text-align: center;
+ }
+ .btn-tastes
+ {
+    margin-top: 70px;
+    margin-left: 685px;
+    width: 332px;
+    height: 120px;
+    border-color: #fff;
+    border-width: 4px;
+    border-radius: 0px 0px 50px 0px;
+    background-color: transparent;
+ }
+ .coffee-culture
+ {
+    position: relative;
+    top: 150px;
+    
+    width: 100%;
+    height: 600px;
+    color: black;
+    
+    
+ }
+ .culture
+ {
+    font-size: 68px;
+    font-weight: 100;
+ }
+.para-6
+{
+    color: black;
+    font-size: 45px;
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 30px;
+    font-weight: 100;
+}
+.no-post
+{
+    margin-top: 200px;
+    margin-left: 500px;
+    background-color: transparent;
+    width: 700px;
+    height: 120px;
+    box-shadow: 4px 1px 8px 1px #888888;
+    font-size: 30px;
+    border-color: aliceblue;
+    color: #3b3434;
+}
+.nescafe-inform
+{
+    width: 93%;
+    height: 2000px;
+    margin-left: 50px;
+    margin-top: 400px;
+    margin-right: 50%;
+    background-color:#eceaea;
+    border-radius: 200px 0px 200px 0px;
+}
+.red-logo
+{
+    background-color: #ad1008;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    width: 400px;
+    height: 400px;
+     margin-left: 584px;
+    /* margin-top: 99px; */
+    position: relative;
+    top: 150px
+}
+
+.image
+{
+    margin: 10px;
+    
+}
+.inform
+{
+    padding-top: 232px;
+    padding-left: 407px; 
+}
+.lab-last
+{
+margin-left: 508px;
+margin-top: 100px;
+}
+.last-name
+{
+float: left;
+font-size: 27px;
+}
+.lab-text
+{
+float: left;
+width: 443px;
+height: 50px;
+margin-top: -11px;
+border-radius: 10px;
+border-width: 3px;
+font-size: 38px;
+    text-align: center;
+}
+.para-7
+{
+    color: black;
+    font-family: GothamRoundedBook,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 46px;
+    line-height: 60px;
+    padding-top: 70px;
+    float: left;
+    margin-left: 68px;
+}
+ 
+ 
+
